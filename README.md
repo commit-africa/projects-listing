@@ -1,7 +1,7 @@
 # Commit Africa
 
-## Open Source Projects
+## South Africa
 
-* ⭐ [Abafazi](//github.com/OpenUpSA/khetha/tree/master/project/abafazi.md)
-* 💻 [Code Explorer](//github.com/OpenUpSA/khetha/tree/master/project/code-explorer.md)
-* 👗 [Design 26 Foundation](//github.com/OpenUpSA/khetha/tree/master/project/design-26-foundation.md)
+* ⭐ [Abafazi](https://github.com/commit-africa/projects-listing/blob/master/projects/abafazi.md)
+* 💻 [Code Explorer](https://github.com/commit-africa/projects-listing/blob/master/projects/code-explorer.md)
+* 👗 [Design 26 Foundation](https://github.com/commit-africa/projects-listing/blob/master/projects/design-26-foundation.md)
